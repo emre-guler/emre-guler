@@ -6,7 +6,7 @@
  
 - 💼 Jr. Backend Developer @ Inveon
 - 👨‍💻 .NET Core, NodeJS 
-- 👨‍🎓 Currently learning GO! 
+- 👨‍🎓 Currently learning Go! 
 
 You can find my blog posts on my website [here](https://emreguler.dev/).
 
