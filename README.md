@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-31104d?style=flat-quare&labelColor=31104d&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/vpemre/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/emre-güler-649006199/) 
  
-- 💼 Jr. Backend Developer @ Inveon
+- 💼 Backend Developer @ Inveon
 - 👨‍💻 .NET Core, NodeJS 
 - 👨‍🎓 Currently learning Go! 
 
