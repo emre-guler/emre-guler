@@ -16,4 +16,4 @@ You can find my blog posts on my website [here](https://emreguler.dev/).
 
 ## My Top Langs:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emre-guler&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emre-guler&layout=compact&theme=panda&hide=html,css,objective-c,scss,java,ruby)](https://github.com/anuraghazra/github-readme-stats)
