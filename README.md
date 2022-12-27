@@ -32,10 +32,6 @@ Connect with me
 </p>  
 
 
-## My GitHub Stats:
-
 ![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emre-guler&theme=panda)
-
-## My Top Langs:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emre-guler&layout=compact&theme=panda&hide=html,css,objective-c,scss,java,ruby)](https://github.com/anuraghazra/github-readme-stats)
