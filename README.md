@@ -21,14 +21,14 @@ Connect with me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/emregulerdev/" target="_blank">
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/emregulerdev/) 
+<a href="https://linkedin.com/in/emregulerdev" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> &nbsp;
 
-<a href="https://www.instagram.com/emrre.gulerrr/" target="_blank">
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-31104d?style=flat-quare&labelColor=31104d&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/emrre.gulerrr/) 
+<a href="https://www.instagram.com/emrre.gulerrr" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=red alt=instagram style="margin-bottom: 5px;" />
 </a> &nbsp;
- 
+  
 </p>  
 
 
