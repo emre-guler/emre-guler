@@ -15,7 +15,7 @@ Connect with me
 </h2>
 <p align="center">
   You can visit my social media accounts, <b>read my blog posts</b>. Don't forget to visit my social media accounts below to get to know me. <br>
-🌿 <a href="https://emreguler.dev/">emreguler.dev</a> 🌿
+🌿 <a href="https://emreguler.me/">emreguler.me</a> 🌿
 </p>  
 <br>
 
