@@ -30,6 +30,3 @@ Connect with me
 </a> &nbsp;
   
 </p>  
-
-## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emre-guler&layout=compact&theme=panda&hide=html,css,objective-c,scss,java,ruby)](https://github.com/anuraghazra/github-readme-stats)
