@@ -1,14 +1,36 @@
-# Hey everybody! I'm Emre 🏍
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Emre+GÜLER&center=true&size=25">
+  </a>
+</h1>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/emre-guler) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-31104d?style=flat-quare&labelColor=31104d&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/vpemre/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/emre-güler-649006199/) 
+### Hi there, I am Emre <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+🧡 Back End Developer at Inveon <br>
+
+
+
+
+<h2 align="center">
+Connect with me 
+</h2>
+<p align="center">
+  You can visit my social media accounts, <b>read my blog posts</b>. Don't forget to visit my social media accounts below to get to know me. <br>
+🌿 <a href="https://emreguler.dev/">emreguler.dev</a> 🌿
+</p>  
+<br>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/emregulerdev/" target="_blank">
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/emregulerdev/) 
+</a> &nbsp;
+
+<a href="https://www.instagram.com/emrre.gulerrr/" target="_blank">
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-31104d?style=flat-quare&labelColor=31104d&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/emrre.gulerrr/) 
+</a> &nbsp;
  
-- 💼 Backend Developer @ Inveon
-- 👨‍💻 .NET Core, NodeJS 
-- 👨‍🎓 Currently learning Go! 
+</p>  
 
-You can find my blog posts on my website [here](https://emreguler.dev/).
 
 ## My GitHub Stats:
 
