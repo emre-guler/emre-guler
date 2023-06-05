@@ -1,32 +1,24 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Emre+GÜLER&center=true&size=25">
-  </a>
-</h1>
-
-### Hi there, I am Emre <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-💚 Back End Developer <br>
+# 💫 About Me:
+🔭 I’m currently working on C# and GO.<br>💚 I'm currently working at Sertifier as Back-end Developer.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emregulerdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vpemre) 
 
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=emre-guler&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=emre-guler&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emre-guler&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2 align="center">
-Connect with me 
-</h2>
-<p align="center">
-  You can visit my social media accounts, <b>read my blog posts</b>. Don't forget to visit my social media accounts below to get to know me. <br>
-🌿 <a href="https://emreguler.me/">emreguler.me</a> 🌿
-</p>  
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=emre-guler&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://linkedin.com/in/emregulerdev" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> &nbsp;
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=emre-guler&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<a href="https://www.instagram.com/emrre.gulerrr" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=red alt=instagram style="margin-bottom: 5px;" />
-</a> &nbsp;
-  
-</p>  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
