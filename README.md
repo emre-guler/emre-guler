@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C# and GO.<br>💚 I'm currently working at Sertifier as Back-end Developer.
+🔭 Currently working on C# and GO.<br>💚 Currently working at Sertifier as Back-end Developer.
 
 
 ## 🌐 Socials:
