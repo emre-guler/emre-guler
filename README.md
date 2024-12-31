@@ -10,6 +10,3 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emre-guler&theme=radical&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=emre-guler&theme=radical&no-frame=false&no-bg=true&margin-w=4)
