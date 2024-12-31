@@ -3,4 +3,5 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emregulerdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/emregulerdev) 
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg)](https://linkedin.com/in/emregulerdev) 
+[![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/twitter-x.svg)](https://twitter.com/emregulerdev) 
